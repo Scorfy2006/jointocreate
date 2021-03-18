@@ -1,2 +1,0 @@
-# jointocreate
-Jointocreate for discord
